@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://auto.alphablog.site/sitemap.xml
+Sitemap: https://zzz.alphablog.site/sitemap.xml
